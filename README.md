@@ -7,7 +7,13 @@ Manga Detection is a manga-version of 'Shazam app' aiming at discovering the man
 
 Face detection model: 'Face detection model.ipynb'
 
-face classifer model: 'Face classifier model.ipynb'
+Face classifer model: 'Face classifier model.ipynb'
+
+## Pre-trained model:
+
+Face detection model: 'Face_recog_model_2.h5'
+
+Face classifer model: 'Manga_face_model_2.h5'
 
 ## Demo
 ### A simple demonstration for the application of the classifier model are included:
