@@ -1,4 +1,4 @@
-### Manga_detection
+# Manga_detection
 ## Introduction 
 Manga Detection is a manga-version of 'Shazam app' aiming at discovering the manga name through facial recognition based on a given input manga image. Manga refers to the comics or graphic novels created in Japan.
 
