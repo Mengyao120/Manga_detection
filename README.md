@@ -25,6 +25,8 @@ A jupyter notebook for you to test: 'Demo_Face_classfier_model.ipynb'
 Manga 109: Manga109 compiled by the Aizawa Yamasaki Laboratory is composed of 109 manga volumes drawn by professional manga artists in Japan for use in academic research on the media processing of manga. 
 
 ## Training images
+Link for images:https://drive.google.com/file/d/1ChAMylnlyDyz9OoWIbChFubtJjleEsbb/view?usp=sharing
+
 Original manga volumes: folder 'simple model'
 
 Hand-labelled images: folder 'cropped'
